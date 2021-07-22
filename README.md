@@ -1,2 +1,3 @@
 # JUPYTER_MARKDOWN
-Un poco de Jupyter y Markdown
+
+Jupyter, Markdown & Python in a nutshell
